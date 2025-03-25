@@ -1,2 +1,4 @@
 [functions]
   directory = "netlify/functions/"
+[build.environment]
+  SITE_NAME = "吐司气泡"
